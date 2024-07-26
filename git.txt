@@ -3,3 +3,4 @@ kousinsita
 これもれんしゅうやな
 なかなかわかる
 gitstatus
+git diff
